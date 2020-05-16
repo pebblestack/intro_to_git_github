@@ -1,5 +1,5 @@
-def fibonacchi():
-	fib = 0
+def fib():
+	return 0
 
 if __name__ == "__main__":
-	fibonacchi()
+	main()
