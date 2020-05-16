@@ -1,3 +1,5 @@
-import cv2
-print("hi")
-print("yo")
+def fibonacchi():
+	fib = 0
+
+if __name__ == "__main__":
+	fibonacchi()
